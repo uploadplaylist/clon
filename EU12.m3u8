@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:5
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:5,
+http://gtvstreams.me:80/live/Tony15/Tony15/267419.ts
