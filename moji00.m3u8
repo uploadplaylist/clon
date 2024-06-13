@@ -1,0 +1,5 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+https://cors-proxy.cooks.fyi/http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/298550.ts

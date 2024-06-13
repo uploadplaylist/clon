@@ -1,0 +1,7 @@
+#EXTM3U
+#EXT-X-TARGETDURATION:1
+#EXT-X-MEDIA-SEQUENCE:0
+#EXTINF:1,
+http://xtv.ooo:8080/live/8899/8899/351023.ts
+http://mykingtv.net:2082/live/Bae810/ktv9399/5144.ts
+http://mytv-extra.com:80/live/t12mgxyb335/9832948789/400200742.ts
