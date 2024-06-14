@@ -3,5 +3,5 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
+https://cors-proxy.cooks.fyi/http://162.19.37.133:8080/play/live.php?mac=00:1A:79:C0:B2:04&stream=124773_&extension=ts
 https://cors-proxy.elfsight.com/https://cors-proxy.elfsight.com/http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=393118&extension=ts
-
