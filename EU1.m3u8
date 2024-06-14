@@ -3,4 +3,5 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-https://cors-proxy.elfsight.com/http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=74981&extension=ts
+https://cors-proxy.elfsight.com/https://cors-proxy.elfsight.com/http://line.clear-ocean.link:80/play/live.php?mac=00:1A:79:1e:1b:01&stream=393118&extension=ts
+
