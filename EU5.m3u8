@@ -3,5 +3,4 @@
 #EXT-X-MEDIA-SEQUENCE:0
 #EXT-X-ALLOW-CACHE:NO
 #EXTINF:1,
-https://cors-proxy.elfsight.com/http://152.89.62.76:8880/live/D12m1495/23236986/32818.ts
-#http://89.46.92.46:8080/play/live.php?mac=00:1A:79:1D:06:6D&stream=132769&extension=m3u8
+https://cors-proxy.elfsight.com/http://king-ott.xyz:8080/play/live.php?mac=00:1A:79:75:01:A7&stream=213392&extension=ts
